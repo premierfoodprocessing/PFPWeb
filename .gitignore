@@ -1,0 +1,10 @@
+# Confidential source material — never publish or commit.
+project-brief /
+
+# Local/editor files.
+.DS_Store
+*.swp
+.vscode/
+
+# Local Git database used because the workspace-provided .git mount is read-only.
+.pfp-git/
